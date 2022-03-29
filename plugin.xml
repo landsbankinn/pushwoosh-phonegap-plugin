@@ -74,7 +74,6 @@
 		<framework src="com.pushwoosh:pushwoosh-badge:6.4.1"/>
         <framework src="com.pushwoosh:pushwoosh-inbox:6.4.1"/>
         <framework src="com.pushwoosh:pushwoosh-inbox-ui:6.4.1"/>
-		<framework src="com.pushwoosh:pushwoosh-huawei:6.4.1"/>
 	</platform>
 
 	<!-- ios -->
